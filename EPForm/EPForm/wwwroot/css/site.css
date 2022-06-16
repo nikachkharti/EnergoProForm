@@ -1,0 +1,17 @@
+.w-200 {
+    width: 200px;
+}
+
+.bg-energoPro-light {
+    background-color: #7B9ECA;
+}
+
+.bg-energoPro {
+    background-color: #0245a1;
+    transition: .2s;
+}
+
+.submitBtn:hover {
+    background-color: #7B9ECA;
+    transition: .2s;
+}
